@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DSA,DEVELOPMENT**
 
-- 💬 Ask me about **C C++**
+- 💬 Ask me about **C ,C++**
 
 - 📫 How to reach me **divyaaagarwal111@gmail.com**
 
