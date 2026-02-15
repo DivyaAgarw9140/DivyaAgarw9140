@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Divya Agarwal</h1>
-<h3 align="center">A passionate student learning fullstack development</h3>
+<h3 align="center">A passionate student learning fullstack  development</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/vondy/image/fetch/q_auto:best,f_auto,w_1200/https://protoinfrastack-myfirstbucketb8884501-fnnzvxt2ee5v.s3.amazonaws.com/4HRnE7Oeo35VSfO0Rn5fXrYNDFN3TIaJtyL7.png">
 
 - 🌱 I’m currently learning **DSA,DEVELOPMENT**
